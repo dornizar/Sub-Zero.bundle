@@ -22,7 +22,7 @@ Copy `Sub-Zero.bundle` folder to Plex's plugin directory
 
 <br />
 
-##Setup
+## Setup
 In order to use Ktuvit's provider you need to register and enter credentials in Sub-Zero's Settings
 under `Ktuvit Username` and `Ktuvit Password`.
 
