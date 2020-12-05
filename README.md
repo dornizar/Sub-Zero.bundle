@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Sub--Zero%20version-2.6.5.3247-informational)](https://github.com/pannal/Sub-Zero.bundle/releases/tag/2.6.5.3247) 
 [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
 
-<img src="https://raw.githubusercontent.com/pannal/Sub-Zero.bundle/master/Contents/Resources/subzero.gif" align="left" height="100">
+<img src="https://raw.githubusercontent.com/pannal/Sub-Zero.bundle/master/Contents/Resources/subzero.gif" align="left" height="100"><br />
 
 An active fork of Sub-Zero for Plex with hebrew subtitle support for **[Ktuvit](https://www.ktuvit.me)** and **[WizdomSubs](https://www.wizdom.xyz)**.
 
